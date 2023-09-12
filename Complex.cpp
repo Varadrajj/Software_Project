@@ -64,6 +64,6 @@ void Complex :: acceptparam(int r, int i)
 		c2.display();
 		cout<<"Modified real  part="<<c2.getReal();
 		cout<<"\nModified imaginary part="<<c2.getImg();
-		cout<<"\nModified complex number="<<c2.getReal()<<"+"<<c2.getImg()<<"i";
+		cout<<"\nModified complex number="<<c2.getReal()<<"+"<<c2.getImg()<<"li"; //Prints modified value
 	}
 		
