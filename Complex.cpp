@@ -9,6 +9,7 @@ class Complex
 			cout<<"Accept real and imaginary values=";
 			cin>>real>>img;
 		}
+                //To display the complex number.
 		void display()
 		{
 			cout<<"Complex number is="<<real<<"+"<<img<<"i"<<endl;
