@@ -27,6 +27,7 @@ int real, img;//change by Saurabh
 			cin>>r;
 			real=r;
 		}
+//created by Harshvardhan Wadavane 
 		int getReal()
 		{
 			return real;
