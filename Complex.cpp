@@ -2,7 +2,11 @@
 using namespace std;
 class Complex
 {
-	int real, img;//change by Saurabh
+//start
+//
+//
+
+int real, img;//change by Saurabh
 	public:
 		void getData()
 		{
