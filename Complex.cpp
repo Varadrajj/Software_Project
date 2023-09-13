@@ -2,8 +2,8 @@
 using namespace std;
 class Complex
 {
-//
-//
+
+//Teach by Godse
 //
 
 int real, img;//change by Saurabh
