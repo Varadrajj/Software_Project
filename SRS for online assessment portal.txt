@@ -67,8 +67,8 @@ BOD team will be able to view daily, weekly, monthly, annual businss Growth thro
 Shoppers will be able to see their product sale graph
 
 ### Durability:
-System will retain customer  shopping cart for 15 minutes  even though customer loose internet connection and join again.
-System will maintain wishlist for customer . customer  will be able to add products from wishlist  and add to shopping cart whenever needed.
+System will retain assessment portal in case of loose internet connection and join again.
+System will maintain the record of any changes made by the candidate over a given period of time.
 System will implement backup and recovery for retaining stake holders data, bussiness operation data and business data over time.
 
 ### Efficiency:
