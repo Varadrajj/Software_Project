@@ -72,20 +72,20 @@ System will maintain the record of any changes made by the candidate over a give
 System will implement backup and recovery for retaining stake holders data, bussiness operation data and business data over time.
 
 ### Efficiency:
-on Festival season, maximum number of users  will place order, view products  with same response time.
-System will be able to manage all transactions with isolation.
+In the whole process of the examination their will be number of changes done by the candidates and at the same time all the candidate will complete their exam so the system must be able to manage all the transitions.
 
 ### Modularity:
-System will designed and developed using reusable, independent or dependent business senarios in the form of modules.
+System will designed and developed using reusable, independent or dependent  in the form of modules.
 These modules will be loosely coupled and highly cohesive.
-System will contain CRM , Inventory , shopping cart, order processing, payment processing, Delivery module, membership and Roles managment  modules.
+System will contain clock timer,Sectional wise Question bank , Record Answers, virtual Keyboard, white block for rough work, virtual calculators, Practice Quizes. 
 	
 ### Scalability:
-System will be able  to  provide  consistent user exeprience to stake holder as well as vistors irrespective of load.
+System will be able  to  provide  consistent user exeprience to candidates as well as exam monitors irrespective of load.
+Portal should be  able to handle number of candidate at the same time
 
 ### Safety:	
-online shopping portal will be secure from malicious attack, fishing.
-online shoppping portal functionalilites are protected from outside with prper firewall configuration.
-online shopping portal will be always kept updated with latest anit virus software.
-Bussiness data will be backed up periodically to ensure safty of data using increamental back up strategy.
-Role based security will be applied for Application data and operations accessibility.
+Any malpractices detected assessment should be submitted at instance of time.
+Online Assessment portal will be secure from malicious attack, fishing.
+Online Assessment portal functionalilites are protected from outside with proper firewall configuration.
+Online Assessment portal will be always kept updated with latest anit virus software.
+Data will be backed up periodically to ensure safty of data using increamental back up strategy.
