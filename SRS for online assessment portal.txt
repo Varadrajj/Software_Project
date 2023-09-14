@@ -24,7 +24,7 @@ This portal allows Students to attempt exam from their respective centres. It wi
 ## Functional Requirements:
 
 This portal should be logged in by authentication of username and password provided by CDAC.Operational team will be able to approve or deny request on the basis of credentials.
- On dashboard Sections of exam,the number of questions, number of answered questions,not attempted questions should be displayed on the right hand side of the candidate.
+Sections of exam,the number of questions, number of answered questions,not attempted questions should be displayed on the right hand side of the candidate.
 Students can access the assessment for only a particular period of time which is given by the CDAC. Exam will automatically gets submitted once the time is over and all the answers of student will be saved automatically. Students can update/modify their answers between a given perid of time as many times they want.CDAC team will have authority to withdrawn the candidature of the student for any violation of rules/terms during assessment.
 
 ## NonFunctional Requirement:
@@ -54,21 +54,14 @@ A readymade Web Server will be installed to host online shopping portal (Web Sit
 IT operations team will easily monitor and configure System using Adminstrative tools provided by Servers.
 Separate enviornment will be maintained for system for isolation in  production, testing, and development.
 
-### Portablility:
-PDA: Portable Device Application
-System will provide portable User Interface ( HTML, CSS, JS) through  users will be able to access online shopping portal.
-System can be deployed to single server, multi server, to any OS, Cloud (Azure or AWS or GCP)
-
 ### Accessibility:
-only registered customer will be able to place an order after authentication.
-Sales team can reject or approve  orders, shopper requests  based on role  provided.
-BOD team will be able to view daily, weekly, monthly, annual businss Growth throgh customized dashboard.
-Shoppers will be able to see their product sale graph
+Only registered candidates will be able to access the assessment after authentication.
+CDAC team can accept or deny the access of assessment to the student on the basis of credentials entered.
 
 ### Durability:
 System will retain assessment portal in case of loose internet connection and join again.
 System will maintain the record of any changes made by the candidate over a given period of time.
-System will implement backup and recovery for retaining stake holders data, bussiness operation data and business data over time.
+System will implement backup and recovery for retaining data over time.
 
 ### Efficiency:
 In the whole process of the examination their will be number of changes done by the candidates and at the same time all the candidate will complete their exam so the system must be able to manage all the transitions.
