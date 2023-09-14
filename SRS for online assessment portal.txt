@@ -10,11 +10,11 @@ System Reqruiement Spefication for Online Assessment Portal for CDAC
 Student, Faculties, Board of Director, CDAC, Malpractices Avoidance Team, Operational Team, Management Team, Architect
 
 ## Objective (Purpose):
-The product is designed for students' online assessment, where they will get an online platform to attempt the CDAC exam from their remote locations.
+The product is designed for students online assessment, where they will get an online platform to attempt the CDAC exam from their respective centres. This exam will ensure students score to help them to get addmission into CDAC's respective centres. 
 ## Scope:
-This portal allows Students to attempt exam from their native places. It will be user-friendly dashboard. It should support multiple languages.Online Assessment Portal should support for multiple question types and formats and detailed reporting. It must generate automatic instant results help in smooth conduction.
+This portal allows Students to attempt exam from their respective centres. It will be user-friendly dashboard. It should support multiple programming languages. Online Assessment Portal should support for multiple question types and formats and detailed reporting. It must generate automatic instant results to help in smooth conduction of exam. This system allows students to give exam for a specific perid of time. It will save the changes made by the students in the assessment and record all the data of student.
 
-It avoids the possibilities of secretly using unfair means to get the right answers
+
 ## Definitions:
 	CDAC: Centre for Development of Advanced Computing
 	
@@ -23,9 +23,9 @@ It avoids the possibilities of secretly using unfair means to get the right answ
 
 ## Functional Requirements:
 
-This portal should be logged in by authentication of username and password provided by CDAC.Operational team will be able to approve or deny request on the basis of correct logs.
- Sections of exam,the number of questions, number of answered questions,not attempted questions.
-Students can access the assessment for only a particular period of time which is given by the CDAC. Exam will automatically gets submitted once the time is over and all the answers of student will be saved automatically. Students can update/modify their answers between a given perid of time as many times they want.
+This portal should be logged in by authentication of username and password provided by CDAC.Operational team will be able to approve or deny request on the basis of credentials.
+ Sections of exam,the number of questions, number of answered questions,not attempted questions should be displayed on the right hand side of the candidate.
+Students can access the assessment for only a particular period of time which is given by the CDAC. Exam will automatically gets submitted once the time is over and all the answers of student will be saved automatically. Students can update/modify their answers between a given perid of time as many times they want.CDAC team will have authority to withdrawn the candidature of the student for any violation of rules/terms during assessment.
 
 ## NonFunctional Requirement:
 
