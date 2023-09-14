@@ -4,7 +4,7 @@
 System Requirement Specification Document
 
 ## Title:
-System Reqruiement Spefication for Online Assessment Portal for CDAC 
+System Reqruiement Specification for Online Assessment Portal for CDAC 
 
 ## Team: 
 Student, Faculties, Board of Director, CDAC, Malpractices Avoidance Team, Operational Team, Management Team, Architect
@@ -12,7 +12,7 @@ Student, Faculties, Board of Director, CDAC, Malpractices Avoidance Team, Operat
 ## Objective (Purpose):
 The product is designed for students online assessment, where they will get an online platform to attempt the CDAC exam from their respective centres. This exam will ensure students score to help them to get addmission into CDAC's respective centres. 
 ## Scope:
-This portal allows Students to attempt exam from their respective centres. It will be user-friendly dashboard. It should support multiple programming languages. Online Assessment Portal should support for multiple question types and formats and detailed reporting. It must generate automatic instant results to help in smooth conduction of exam. This system allows students to give exam for a specific perid of time. It will save the changes made by the students in the assessment and record all the data of student.
+This portal allows Students to attempt exam from their respective centres. It will be user-friendly dashboard. It should support multiple programming languages. Online Assessment Portal should support for multiple question types and formats and detailed reporting. It must generate automatic instant results to help in smooth conduction of exam. This system allows students to give exam for a specific period of time. It will save the changes made by the students in the assessment and record all the data of student.
 
 
 ## Definitions:
@@ -24,18 +24,17 @@ This portal allows Students to attempt exam from their respective centres. It wi
 ## Functional Requirements:
 
 This portal should be logged in by authentication of username and password provided by CDAC.Operational team will be able to approve or deny request on the basis of credentials.
- Sections of exam,the number of questions, number of answered questions,not attempted questions should be displayed on the right hand side of the candidate.
+ On dashboard Sections of exam,the number of questions, number of answered questions,not attempted questions should be displayed on the right hand side of the candidate.
 Students can access the assessment for only a particular period of time which is given by the CDAC. Exam will automatically gets submitted once the time is over and all the answers of student will be saved automatically. Students can update/modify their answers between a given perid of time as many times they want.CDAC team will have authority to withdrawn the candidature of the student for any violation of rules/terms during assessment.
 
 ## NonFunctional Requirement:
 
 ### Security
-Registered Customer will allowed to place an order.	
-Each stakeholder will be to access system  through authentication process. Who are you ?
+Registered candidate will allowed to login.
 System will provide access to  the content , operations using Role based security (Authorization) (Permissions based on Role)
 Using SSL in all transactions  which will be performed stakeholder. It would protect confidential information shared by system to stake holder of Shared by stakeholder to system.
-System will automatically log of  all stakeholder after some time due to inactiveness.
-System will block operations for inactive  stakeholder and would redirect for authentication.
+System will automatically log of  all candidate after some time due to inactiveness.
+System will block operations of candidate who is responsible for malpractices.
 System  will internally maintain secure communiction channel between Servers ( Web Servers, App Servers, databse Server)
 Sensitive data will be always encrypted across communcation.
 User proper firewall to protect servers from out side fishing, velnerable attacks.
