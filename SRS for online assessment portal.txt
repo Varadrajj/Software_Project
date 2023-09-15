@@ -39,7 +39,7 @@ System will block operations of candidate who is responsible for malpractices.
 System  will internally maintain secure communiction channel between Servers ( Web Servers, App Servers, databse Server)
 Sensitive data will be always encrypted across communcation.
 User proper firewall to protect servers from out side fishing, velnerable attacks.
-
+The portal will also monitor users surrounding activities,detecting any other personal invading the view range of system camera or any type of unwanted noise if detected the system will flash 3 warning before immediate termination of assesment portal.
 
 ### Reliability
 The system will backup canditates data on regular basis and recover in short time duration to keep system operational
