@@ -11,6 +11,7 @@ Student, Faculties, Board of Director, CDAC, Malpractices Avoidance Team, Operat
 
 ## Objective (Purpose):
 The product is designed for students online assessment, where they will get an online platform to attempt the CDAC exam from their respective centres. This exam will ensure students score to help them to get addmission into CDAC's respective centres. 
+
 ## Scope:
 This portal allows Students to attempt exam from their respective centres. It will be user-friendly dashboard. It should support multiple programming languages. Online Assessment Portal should support for multiple question types and formats and detailed reporting. It must generate automatic instant results to help in smooth conduction of exam. This system allows students to give exam for a specific period of time. It will save the changes made by the students in the assessment and record all the data of student.
 
@@ -41,7 +42,7 @@ User proper firewall to protect servers from out side fishing, velnerable attack
 
 
 ### Reliability
-The system will backup business data on regular basis and recover in short time duration to keep system operational
+The system will backup canditates data on regular basis and recover in short time duration to keep system operational
 Continous updates are matained , continous Adminstration is done to keep system operational.
 During peak hours system will maintain same user experaince by managing load balacning .
 
@@ -50,9 +51,8 @@ uptime:   24* 7  available  99.999%
 	
 ### Maintainability:
 A Commercial database software will be used to maintain System data Persistence.
-A readymade Web Server will be installed to host online shopping portal (Web Site) to management server capabilities.
 IT operations team will easily monitor and configure System using Adminstrative tools provided by Servers.
-Separate enviornment will be maintained for system for isolation in  production, testing, and development.
+
 
 ### Accessibility:
 Only registered candidates will be able to access the assessment after authentication.
