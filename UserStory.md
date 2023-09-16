@@ -20,5 +20,13 @@
 
 11]As a student, I want the assesment should be auto submitted after the completion of time.
 
-12]
+12]As a student I will be able to change the options selected by me.
+
+13]As a student I will be informed by system for any voilation of the rules and regulations during exam.
+
+14]As a student I will be able to get notified about the time so that student will be able to complete the exam in time.
+
+15]As a student I will be able to select options for the questions so that assessment will be completed.
+
+16]As a student I will be able to submit the assessment before time limit so that i will be able to complete the assessment.
 
