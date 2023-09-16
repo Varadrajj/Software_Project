@@ -9,3 +9,13 @@
 5]As a faculty, I will be able to supervise all the students with the help of the live camera option so all the rules will be followed.
 
 6]As a student, I will be able to see the student profile after the successful login.
+
+7]As a faculty, I want to see how many students appear for assessment with proper time records.
+
+8]As a student, i will we able to see for the completion of assesment.
+
+9]As a faculty, i will be able to upload question paper set.
+
+10]As an administrator, I want to ensure a data security and privacy.
+
+
