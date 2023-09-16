@@ -30,3 +30,9 @@
 
 16]As a student I will be able to submit the assessment before time limit so that i will be able to complete the assessment.
 
+17]As a faculty I will be able to access the record of the student so that we can validate candidate assessment.
+
+18]As a student I will be able to rejoin the assessment if any technical failure happens so that I will be able to access the assessment from the point where i left'
+
+19]As a CDAC team we will be able to see all the dashboards of the students so that whole team will be able to monitor them.
+
