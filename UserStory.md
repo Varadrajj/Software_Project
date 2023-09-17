@@ -36,3 +36,8 @@
 
 19]As a CDAC team we will be able to see all the dashboards of the students so that whole team will be able to monitor them.
 
+20]As a student I need to recover my password so that I wiil be able to change it whenever i forgot it.
+
+21]As a CDAC team I need to have track of students, faculties, co-ordinators and centres available so that we can manage the assessment for student.
+
+
