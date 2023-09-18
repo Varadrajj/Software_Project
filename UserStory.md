@@ -40,5 +40,7 @@
 
 21]As a CDAC team I need to have track of students, faculties, co-ordinators and centres available so that we can manage the assessment for student.
 22]As a student I will be able to use all the functions easily so that no problem will occure while using the functions of the online assessment.
+23]As a student I will be able to get about all the rules and regulations so that the candidate will follow all the rules.
 
+24]As a CDAC team I will be able to get notified if any candidate will close the window for any misuse so that the candidate will not give the further exam or get the proper warning for that.
 
