@@ -39,5 +39,6 @@
 20]As a student I need to recover my password so that I wiil be able to change it whenever i forgot it.
 
 21]As a CDAC team I need to have track of students, faculties, co-ordinators and centres available so that we can manage the assessment for student.
+22]As a student I will be able to use all the functions easily so that no problem will occure while using the functions of the online assessment.
 
 
